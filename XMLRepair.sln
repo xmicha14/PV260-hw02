@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XMLRepair", "XMLRepair\XMLRepair.csproj", "{990B0111-9416-4BBB-A836-5CF8014F71A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLRepair.Tests", "XMLRepair.Tests\XMLRepair.Tests.csproj", "{50572D10-4598-4920-AE4A-187D029B29BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990B0111-9416-4BBB-A836-5CF8014F71A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990B0111-9416-4BBB-A836-5CF8014F71A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990B0111-9416-4BBB-A836-5CF8014F71A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990B0111-9416-4BBB-A836-5CF8014F71A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50572D10-4598-4920-AE4A-187D029B29BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50572D10-4598-4920-AE4A-187D029B29BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50572D10-4598-4920-AE4A-187D029B29BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50572D10-4598-4920-AE4A-187D029B29BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CE982B-CC3A-48C2-8CE6-7BE4CE3D0A66}
+	EndGlobalSection
+EndGlobal
